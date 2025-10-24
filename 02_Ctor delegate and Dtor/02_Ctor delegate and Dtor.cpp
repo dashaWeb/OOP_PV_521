@@ -37,7 +37,6 @@ public:
 		:City(name,"NoCountry")
 	{
 		cout << "Ctor with 1 parameter " << endl;
-		
 	}
 
 	City(const char* name, const char* country)
