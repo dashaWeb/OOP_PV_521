@@ -28,4 +28,5 @@ int main()
     cout << "Number of products :: " << Product::getCounter() << endl;
     cout << boolalpha << "Check category :: " << Product::sameTypeProducts(milk, yogurt) << endl;
 
+
 }
