@@ -60,7 +60,7 @@ int main()
 
 
 	cout << "\n\n";
-	cout << "A";
+	cout << " A";
 	A.print(); // (2,5)
 	cout << "\n A";
 	(++A).print(); // (3,6)
