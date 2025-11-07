@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_Oveload operators contin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_Template class", "08_Template class\08_Template class.vcxproj", "{88753968-F280-4164-B8F5-0267C39FD691}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_Dynamic structures Stack", "09_Dynamic structures Stack\09_Dynamic structures Stack.vcxproj", "{7293DB31-3793-42F6-A6DB-487C764BF925}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{88753968-F280-4164-B8F5-0267C39FD691}.Release|x64.Build.0 = Release|x64
 		{88753968-F280-4164-B8F5-0267C39FD691}.Release|x86.ActiveCfg = Release|Win32
 		{88753968-F280-4164-B8F5-0267C39FD691}.Release|x86.Build.0 = Release|Win32
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Debug|x64.ActiveCfg = Debug|x64
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Debug|x64.Build.0 = Debug|x64
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Debug|x86.ActiveCfg = Debug|Win32
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Debug|x86.Build.0 = Debug|Win32
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x64.ActiveCfg = Release|x64
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x64.Build.0 = Release|x64
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x86.ActiveCfg = Release|Win32
+		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

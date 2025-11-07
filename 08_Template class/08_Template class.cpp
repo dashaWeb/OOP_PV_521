@@ -40,6 +40,8 @@ struct Pair {
 		out << "(" << obj.first << "," << obj.last << ")";
 		return out;
 	}
+
+	// overload operators :  >> // , +=, +;
 };
 
 int main()
@@ -62,6 +64,8 @@ int main()
 
 	Array<Pair<int, double>, 20> containerPair(test);
 	containerPair.print();
+
+	
 }
 
 
