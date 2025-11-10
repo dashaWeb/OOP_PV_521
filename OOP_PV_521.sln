@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_Template class", "08_Tem
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_Dynamic structures Stack", "09_Dynamic structures Stack\09_Dynamic structures Stack.vcxproj", "{7293DB31-3793-42F6-A6DB-487C764BF925}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_Singly Linked List", "10_Singly Linked List\10_Singly Linked List.vcxproj", "{0408589A-D0DF-4D68-9ED3-06494CE399D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x64.Build.0 = Release|x64
 		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x86.ActiveCfg = Release|Win32
 		{7293DB31-3793-42F6-A6DB-487C764BF925}.Release|x86.Build.0 = Release|Win32
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Debug|x64.ActiveCfg = Debug|x64
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Debug|x64.Build.0 = Debug|x64
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Debug|x86.Build.0 = Debug|Win32
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x64.ActiveCfg = Release|x64
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x64.Build.0 = Release|x64
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x86.ActiveCfg = Release|Win32
+		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

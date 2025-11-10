@@ -2,6 +2,23 @@
 #include "MyStack.h"
 using namespace std;
 
+template<typename T>
+struct Pair
+{
+	T data;
+	int priority;
+};
+
+
+template <typename T>
+class QueuePr
+{
+private:
+
+	Pair<T>* queue = nullptr;
+};
+
+
 template <typename T>
 void print(const MyStack<T>& cont, const string& text = "")
 {
