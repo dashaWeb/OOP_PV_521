@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09_Dynamic structures Stack
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10_Singly Linked List", "10_Singly Linked List\10_Singly Linked List.vcxproj", "{0408589A-D0DF-4D68-9ED3-06494CE399D6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_double limked list", "11_double limked list\11_double limked list.vcxproj", "{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x64.Build.0 = Release|x64
 		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x86.ActiveCfg = Release|Win32
 		{0408589A-D0DF-4D68-9ED3-06494CE399D6}.Release|x86.Build.0 = Release|Win32
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Debug|x64.ActiveCfg = Debug|x64
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Debug|x64.Build.0 = Debug|x64
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Debug|x86.Build.0 = Debug|Win32
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Release|x64.ActiveCfg = Release|x64
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Release|x64.Build.0 = Release|x64
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Release|x86.ActiveCfg = Release|Win32
+		{1AA80DEA-4481-4A92-ACAD-8A7648D5BA6A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
