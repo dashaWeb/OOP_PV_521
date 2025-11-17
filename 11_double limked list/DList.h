@@ -21,8 +21,8 @@ class DList
 public:
 	DList() = default;
 	~DList();
-	DList(const DList<T>& other);
-	DList<T>& operator=(const DList<T>& other);
+	DList(const DList<T>& other); // left-this -> other.right
+	DList<T>& operator=(const DList<T>& other); // a = b
 
 	void AddHead(const T& data);
 	void AddTail(const T& data);
