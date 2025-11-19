@@ -79,6 +79,7 @@ void Product::setProductType(const ProductType& productType)
 
 void Product::print() const
 {
+	
 	cout << "\t -----ID  :: " << id << endl;
 	cout << "\t Product  :: " << name << endl;
 	cout << "\t Price    :: " << price << endl;
