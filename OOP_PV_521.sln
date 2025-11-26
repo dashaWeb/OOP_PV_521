@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_map", "24_map\24_map.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25_library_helper", "25_library_helper\25_library_helper.vcxproj", "{75EB4403-336C-47BF-B046-C0A472CA4FEA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_Exception", "26_Exception\26_Exception.vcxproj", "{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{75EB4403-336C-47BF-B046-C0A472CA4FEA}.Release|x64.Build.0 = Release|x64
 		{75EB4403-336C-47BF-B046-C0A472CA4FEA}.Release|x86.ActiveCfg = Release|Win32
 		{75EB4403-336C-47BF-B046-C0A472CA4FEA}.Release|x86.Build.0 = Release|Win32
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Debug|x64.ActiveCfg = Debug|x64
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Debug|x64.Build.0 = Debug|x64
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Debug|x86.Build.0 = Debug|Win32
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Release|x64.ActiveCfg = Release|x64
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Release|x64.Build.0 = Release|x64
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Release|x86.ActiveCfg = Release|Win32
+		{ABC60792-FB05-44C6-A454-5A7BEBFD9DA7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
