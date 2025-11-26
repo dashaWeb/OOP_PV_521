@@ -36,7 +36,7 @@ void Library::search(const string& name, const string& author)
 void Library::sorted_()
 {
 	//sort(lib.begin(), lib.end(), );
-	lib.sort([](Book a, Book b) {return a.author < b.author; });
+	lib.sort([](Book a, Book b) {return (a.author == b.author and a.name < b.name) or (a.author < b.author); });
 }
 
 Book& Library::searchHelper(const string& name, const string& author)

@@ -10,7 +10,7 @@ using namespace std;
 class Library
 {
 	list<Book> lib 
-	{Book("Test 3","Test 7"),Book("Test 2","Test 5"),Book("Test 1","Test 3") }
+	{Book("D","D"),Book("B","4"),Book("A","d"),Book("B","3"),Book("B","1") }
 	;
 	
 	Book& searchHelper(const string& name, const string& author);
